@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Student\ri\matskula\lab13\lab_13_2_1\lab_13_2_1\Source.cpp(26,3): warning C4101: 'riz': unreferenced local variable
+C:\Student\ri\matskula\lab13\lab_13_2_1\lab_13_2_1\Source.cpp(24,3): warning C4101: 'a_kvadr': unreferenced local variable
+  lab_13_2_1.vcxproj -> C:\Student\ri\matskula\lab13\lab_13_2_1\x64\Debug\lab_13_2_1.exe
